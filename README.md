@@ -6,6 +6,10 @@
 - [이수빈](https://github.com/dltnqls9788)
 - [전승호](https://github.com/SeungHoJUN)
 
+## 기간
+
+22.08.14 ~ ing 
+
 ## 진행 방식
 
 1. 매주 일요일 밤 8시에 디스코드에서 코드 리뷰
